@@ -1,0 +1,16 @@
+Gov Contract Finder Plugin Package License
+Copyright (c) 2026 Gov Contract Finder. All rights reserved.
+
+Permission is granted to download, install, copy and use the distributed plugin
+package to connect to Gov Contract Finder for personal or business research.
+OpenAI and Anthropic may review, scan, host and distribute unmodified copies of
+this package through their plugin directories and supported clients. Copies must
+retain this notice.
+
+This license covers only the distributed manifests, research skill, README and
+brand assets. Brand assets may be displayed to identify this integration; this
+does not permit impersonation or imply endorsement by a platform provider.
+It does not license Gov Contract Finder's server implementation, other monorepo
+code, third-party source documents or data. Access to the hosted service remains
+subject to the Gov Contract Finder terms at
+https://govcontractfinder.com/terms-and-conditions.

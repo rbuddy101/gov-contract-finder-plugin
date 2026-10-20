@@ -1,0 +1,11 @@
+{
+  "name": "gov-contract-finder",
+  "version": "0.1.0",
+  "description": "Requires a Gov Contract Finder account. Find U.S. federal opportunities by service, agency, place of performance, classifications, set-aside, and response date. Read notice details and available original solicitation documents with source references. Research contractors by name, UEI, CAGE, state or NAICS using public company facts. Save opportunities and searches to your connected workspace, then continue your research on the website.",
+  "author": {
+    "name": "Gov Contract Finder",
+    "url": "https://govcontractfinder.com"
+  },
+  "homepage": "https://govcontractfinder.com/claude",
+  "license": "SEE LICENSE IN LICENSE"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gov-contract-finder": {
+      "type": "http",
+      "url": "https://search.govcontractfinder.com/mcp"
+    }
+  }
+}
