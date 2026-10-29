@@ -6,7 +6,7 @@ Find federal opportunities, research public contractor facts, read original soli
 
 A Gov Contract Finder account is required for every tool. A free account can connect; existing workspace save allowances apply. Sign in through the host's OAuth connection screen, choose your workspace and review the read/save permissions. Never put a password or access token in chat.
 
-- “Find janitorial opportunities in Arizona.”
+- “Find current U.S. janitorial solicitations under NAICS 561720.”
 - “What do the documents for this opportunity require us to submit?”
 - “Save this opportunity and its search, then show my saved research.”
 
