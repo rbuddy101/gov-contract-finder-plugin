@@ -35,4 +35,4 @@ Preserve date precision and conflicting timezone labels; do not invent midnight 
 
 When an opportunity search is empty, say no matching indexed notices were found. Do not turn an empty result into a claim that no opportunities exist in the market. Keep the requested geography and distinguish federal coverage from state/local procurement.
 
-Keep the requested geography. After at most three empty related discovery searches, report the indexed coverage and offer a next step; do not automatically widen geography or repeat many synonym searches. Saving a search bookmarks its criteria and does not enable alerts.
+Preserve the user's service words and every explicit filter. If the exact search is empty, stop and ask before broadening service terms, geography, dates, agency or notice types. Do not substitute synonyms or classification-only searches, or switch to state/local procurement, without the user's agreement. Saving a search bookmarks its exact criteria and does not enable alerts.
